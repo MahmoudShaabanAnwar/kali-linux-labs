@@ -13,12 +13,16 @@ This lab demonstrates a simple bash script that:
 ```bash
 bash backup_script.sh
 
-## Tools
-- Kali Linux
-- Bash
 
-##What I Learned
--Working with variables in bash
--Creating and compressing files
--Using date and time in filenames
+Tools
+Kali Linux
+
+Bash
+
+What I Learned
+Working with variables in bash
+
+Creating and compressing files
+
+Using date and time in filenames
 
